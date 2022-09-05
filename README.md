@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @nineteen57
+- 👋 Hi, I’m nineteen57
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning
-- 💞️ I’m looking to collaborate on projects with Java, Python
 
 <!---
 nineteen57/nineteen57 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
