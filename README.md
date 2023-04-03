@@ -1,4 +1,4 @@
-- 👋 Hi, I’m shine191
+- 👋 Hi, I’m shine
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning
 
