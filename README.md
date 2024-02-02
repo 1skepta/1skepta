@@ -25,7 +25,6 @@ class WhoAmI:
 
 <p align="center">
   <a href="mailto:prospaul999@gmail.com?subject=Hello%20Mr%20Lawer"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  
   <a href="https://www.linkedin.com/in/paul-prosper-lawer-23419021a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
@@ -54,7 +53,7 @@ class WhoAmI:
 ![Terminal](https://img.shields.io/badge/TERMINAL-000000.svg?style=flat&logo=windows-terminal&logoColor=white)
 ![Cpp](https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
 ![PHOTOSHOP](https://img.shields.io/badge/PHOTOSHOP-31A8FF.svg?&style=flat&logo=adobe-photoshop&logoColor=white)&nbsp;
-![Adobe Premiere Pro](https://img.shields.io/badge/PREMIERE%PRO-EA77FF.svg?style=flat&logo=adobe-premiere-pro&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/ADOBE%20PREMIERE%20PRO-EA77FF.svg?style=flat&logo=adobe-premiere-pro&logoColor=white)
 ![React](https://img.shields.io/badge/REACT-61DAFB.svg?style=flat&logo=react&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120.svg?style=flat&logo=c-sharp&logoColor=white)
 ![Networking](https://img.shields.io/badge/NETWORKING-007ACC.svg?style=flat&logo=cisco&logoColor=white)
