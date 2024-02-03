@@ -74,6 +74,5 @@ class WhoAmI:
 <hr/>
 
 <p align="right">
-<img src="https://komarev.com/ghpvc/?username=darrk-heart&style=plastic&label=Views"><img>
-<img src="https://badges.pufler.dev/visits/darrk-heart/darrk-heart?color=black&logo=github" />
+<img src="https://komarev.com/ghpvc/?username=darrk-heart&style=plastic&label=Profile&Views"><img>
 </p>
