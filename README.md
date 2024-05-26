@@ -1,15 +1,13 @@
-<img src="images/svg/header_en.svg"></img>
+<!--<img src="images/svg/header_en.svg"></img> -->
 
 ### :space_invader: &nbsp;About Me
 
 ```python
 class WhoAmI:
-	user = 'Paul Prosper Lawer'
-		current_work = 'Writing code'
+	user = 'Lawer'
 		hobbies = [
 				'Designing',
 				'Playing Games',
-				'Watching Historic Movies'
 				'Being up all Night chasing that ONE BUG...'
 			]
 
@@ -17,7 +15,6 @@ class WhoAmI:
 		return Accra, Ghana()
 
 	def Ambitions():
-		WriteCode()
 		EatMore()
 
 
@@ -35,23 +32,19 @@ class WhoAmI:
   <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
   <br/>
 
-![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MARIADB-4479A1.svg?&style=flat&logo=mariadb&logoColor=white)
 ![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
 ![IntelliJ](https://img.shields.io/badge/INTELLIJ-000000.svg?&style=flat&logo=intellij-idea)&nbsp;
 ![Terminal](https://img.shields.io/badge/TERMINAL-000000.svg?style=flat&logo=windows-terminal&logoColor=white)
 ![Cpp](https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
 ![PHOTOSHOP](https://img.shields.io/badge/PHOTOSHOP-31A8FF.svg?&style=flat&logo=adobe-photoshop&logoColor=white)&nbsp;
-![Adobe Premiere Pro](https://img.shields.io/badge/ADOBE%20PREMIERE%20PRO-EA77FF.svg?style=flat&logo=adobe-premiere-pro&logoColor=white)
 ![React](https://img.shields.io/badge/REACT-61DAFB.svg?style=flat&logo=react&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120.svg?style=flat&logo=c-sharp&logoColor=white)
 ![Networking](https://img.shields.io/badge/NETWORKING-007ACC.svg?style=flat&logo=cisco&logoColor=white)
 
 </details>
