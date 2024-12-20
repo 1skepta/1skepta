@@ -37,8 +37,7 @@ class WhoAmI:
 ![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP-7952B3.svg?&style=flat&logo=bootstrap&logoColor=white)
 ![TAILWIND CSS](https://img.shields.io/badge/TAILWIND_CSS-38B2AC.svg?&style=flat&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![React](https://img.shields.io/badge/REACT-61DAFB.svg?style=flat&logo=react&logoColor=white)
-![REACT NATIVE](https://img.shields.io/badge/REACT_NATIVE-61DAFB.svg?&style=flat&logo=react&logoColor=white)
+![REACT & NATIVE](https://img.shields.io/badge/REACT_NATIVE-61DAFB.svg?&style=flat&logo=react&logoColor=white)
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
 
 </details>
