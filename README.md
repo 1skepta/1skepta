@@ -34,11 +34,11 @@ class WhoAmI:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=flat&logo=bootstrap&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?&style=flat&logo=tailwind-css&logoColor=white)
+![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP-7952B3.svg?&style=flat&logo=bootstrap&logoColor=white)
+![TAILWIND CSS](https://img.shields.io/badge/TAILWIND_CSS-38B2AC.svg?&style=flat&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![React](https://img.shields.io/badge/REACT-61DAFB.svg?style=flat&logo=react&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB.svg?&style=flat&logo=react&logoColor=white)
+![REACT NATIVE](https://img.shields.io/badge/REACT_NATIVE-61DAFB.svg?&style=flat&logo=react&logoColor=white)
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
 
 </details>
